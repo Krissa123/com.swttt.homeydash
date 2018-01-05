@@ -4,6 +4,7 @@
     "description": "A dashboard for Homey",
     "main": "app.js",
     "dependencies": {
+        "athom-api": "^2.0.93",
         "hapi": "^15.2.0",
         "inert": "^4.0.2",
         "ip": "^1.1.4",
